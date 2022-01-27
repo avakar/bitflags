@@ -1,0 +1,3 @@
+[submodule "deps/mutest"]
+	path = deps/mutest
+	url = https://github.com/avakar/mutest.git
